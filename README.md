@@ -1,5 +1,5 @@
 ![2023-04-30_16-56-12](https://user-images.githubusercontent.com/118747260/235356820-cac5f8d0-b855-4d5c-85db-b5f1d5bbe814.png)
-## Автоматизация тестов для мобильного приложения [Wikipedia, the free encyclopedia](https://https://ru.wikipedia.org/)
+## Автоматизация тестов для мобильного приложения [Wikipedia, the free encyclopedia](https://ru.wikipedia.org/)
 
 ## :iphone: Выполнение тестов осуществляется
 ### На эмуляторе Android Studio
